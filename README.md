@@ -3,7 +3,6 @@
 
 <p align="center">
   📍 Mexico City, Mexico &nbsp;|&nbsp;
-  ✉️ orendain_brian@outlook.com &nbsp;|&nbsp;
   🌐 <a href="https://borendain.com">borendain.com</a>
 </p>
 
