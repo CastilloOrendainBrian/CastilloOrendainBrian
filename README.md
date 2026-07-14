@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
 Software engineer with over **7 years of combined experience** in Full Stack development and infrastructure automation. I have led technical teams in the public and institutional sectors. I specialize in designing scalable backend architectures, orchestrating containerized environments, and securing production infrastructure in both cloud and self-hosted environments.
 
@@ -18,7 +18,7 @@ Software engineer with over **7 years of combined experience** in Full Stack dev
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Technical Skills
 
 **Languages & Frameworks**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
