@@ -53,7 +53,7 @@ Software engineer with over **7 years of combined experience** in Full Stack dev
 `UFW` · `Fail2ban` · `SSH Hardening` · `Lynis` · `Unattended-Upgrades` · `Netdata` · `Certbot (SSL)` · `JWT`
 
 **AI Ecosystem**
-`MCP (Model Context Protocol)` · `Claude Code` · `Gemini CLI` · `GitHub Copilot` · `OpenCode` · `Arquitectura de Agentes`
+`MCP (Model Context Protocol)` · `Claude Code` · `Gemini CLI` · `GitHub Copilot` · `OpenCode` · `Agent Architecture`
 
 ---
 
@@ -67,3 +67,13 @@ Development of real-time procedural communication modules for the Criminal Justi
 
 Independent / Freelance — Software Architect & Systems Administrator (active projects)
 Design a real estate platform with Hexagonal Architecture, Laravel, Next.js, and digital signatures via DocuSign.
+
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CastilloOrendainBrian&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=CastilloOrendainBrian&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CastilloOrendainBrian&theme=github-dark)
